@@ -21,7 +21,7 @@ Inventory Management: Uses a dictionary to store price and stock.
 Automatically deducts stock when items are added to the cart and returns stock 
 if items are removed.
 
-Discount Logic: Implemented a 5% discount for transactions exceeding $5000 
+Discount Logic: Implemented a 5% discount for transactions exceeding $500 
 to encourage bulk purchases.
 
 Validation: The system includes 'try-except' blocks to prevent the program 
