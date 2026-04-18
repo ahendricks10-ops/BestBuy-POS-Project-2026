@@ -3,7 +3,7 @@ Authors: Akira Hendricks	20256755
 	 Kymani Reid-Hewitt	20257052
 Date Created: April 10, 2026
 Course: ITT103
-GitHub Public URL to Code: https://github.com/ahendricks10-ops/BestBuy-POS-Project-SP2026
+GitHub Public URL to Code: https://github.com/ahendricks10-ops/BestBuy-POS-Project-2026
 
 Purpose of the Program
 The Best Buy Retail POS System is designed to automate the checkout process for a small retail store. It manages a product inventory, allows cashiers to build a customer's shopping cart, handles stock validation, calculates taxes and discounts, and generates a professional receipt.
